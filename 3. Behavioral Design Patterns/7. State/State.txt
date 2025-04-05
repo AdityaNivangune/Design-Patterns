@@ -1,0 +1,4 @@
+The State Pattern is a behavioral design pattern that allows 
+an object to change its behavior dynamically based on its internal state. 
+Instead of using multiple if-else or switch statements, 
+it delegates state-specific behavior to separate state classes.

@@ -1,0 +1,15 @@
+These patterns focus on class and object composition, ensuring that if one part changes, others remain unaffected.
+
+1. Adapter : Allows incompatible interfaces to work together.
+
+2. Bridge : Decouples abstraction from implementation.
+
+3. Decorator : Dynamically adds behavior to an object without modifying its code.
+
+4. Facade : Provides a simplified interface to a larger system.
+
+5. Proxy : Controls access to an object.
+
+6. Composite : Composes objects into a tree structure to represent hierarchies.
+
+7. Flyweight : Shares objects to reduce memory usage.

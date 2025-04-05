@@ -1,0 +1,3 @@
+The Flyweight Pattern is a structural design pattern that minimizes memory usage 
+by sharing common objects instead of creating new ones. 
+It is useful when a program needs to create a large number of similar objects.

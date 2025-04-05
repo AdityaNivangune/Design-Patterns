@@ -1,0 +1,3 @@
+The Adapter pattern helps different things to work together, even they are not originally made to work together. 
+It changes one thing to be like another thing so that they can work together. 
+This is useful when there are things that cannot work together, but we still need  them to work together.

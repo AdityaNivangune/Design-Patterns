@@ -1,0 +1,4 @@
+The term proxy stands for an object representing another object. 
+The proxy pattern provides a placeholder for another purpose to control access to it.
+According to Gangs of four, a Proxy pattern provides control for accessing the original object
+We can perform many security operations like hiding the information of the original object, on-demand loading, etc.

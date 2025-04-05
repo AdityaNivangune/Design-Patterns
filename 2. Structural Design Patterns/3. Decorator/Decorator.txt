@@ -1,0 +1,2 @@
+The Decorator pattern is a way to add new things to an object without changing how it looks or works. 
+You make a new class that goes around the old object and add new stuff to it.

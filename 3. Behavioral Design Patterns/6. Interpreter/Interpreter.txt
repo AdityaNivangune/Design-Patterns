@@ -1,0 +1,3 @@
+The Interpreter Pattern is a behavioral design pattern used to define a grammar for a language and 
+provide an interpreter to process sentences in that language. 
+It is useful for scenarios where the same kind of problems occur repeatedly with different inputs.

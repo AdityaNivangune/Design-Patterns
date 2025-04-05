@@ -1,0 +1,3 @@
+The Mediator Pattern is a behavioral design pattern that reduces direct dependencies between 
+multiple objects by introducing a mediator (central controller). 
+Instead of objects communicating directly, they interact through the mediator, promoting loose coupling.

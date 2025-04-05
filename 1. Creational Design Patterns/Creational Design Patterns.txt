@@ -1,0 +1,11 @@
+These patterns deal with object creation mechanisms, improving flexibility and reusability.
+
+1. Singleton : Ensures only one instance of a class exists.
+
+2. Factory Method : Provides an interface for creating objects without specifying their concrete classes.
+
+3. Abstract Factory : Creates families of related objects without specifying their concrete classes.
+
+4. Prototype : Creates objects by copying an existing object.
+
+5. Builder : Constructs complex objects step by step.

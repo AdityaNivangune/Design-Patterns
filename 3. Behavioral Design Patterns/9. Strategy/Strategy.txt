@@ -1,0 +1,4 @@
+The Strategy Pattern is a behavioral design pattern that allows 
+a class’s behavior to be selected at runtime. 
+It defines a family of algorithms, encapsulates each one, 
+and makes them interchangeable without modifying the client code.

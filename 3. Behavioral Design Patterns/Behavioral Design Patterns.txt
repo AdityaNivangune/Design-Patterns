@@ -1,0 +1,19 @@
+These patterns focus on communication between objects and how they interact.
+
+1. Chain of Responsibility : Passes a request through a chain of handlers.
+
+2. Command : Encapsulates a request as an object.
+
+3. Iterator : Provides a way to traverse a collection without exposing its structure.
+
+4. Mediator : Centralizes communication between objects.
+
+5. Observer : Defines a dependency so one change updates multiple objects.
+
+6. Interpreter : Defines a grammar for interpreting expressions.
+
+7. State : Changes an object’s behavior based on its state.
+
+8. Template : Defines the skeleton of an algorithm in a superclass.
+
+9. Strategy : Allows selecting an algorithm at runtime.

@@ -1,0 +1,10 @@
+A design pattern refers to an established and verified solution for a 
+repetitive issue in software development. 
+It offers a standardized approach to solve common design problems and 
+helps developers write maintainable, extensible, and reusable code.
+
+The design patterns can be classified into three main categories :
+	- Creational Patterns : Deals with object creation mechanism.
+	- Behavioral Patterns : Deals with the composition of classes or objects.
+	- Functional Patterns : Deals with communication between objects.
+
